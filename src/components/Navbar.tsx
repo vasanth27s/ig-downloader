@@ -18,17 +18,17 @@ const navbarLinks = [
   {
     name: "Creator",
     href: "https://github.com/vasanth27s",
-    target: "_blank",
+    
   },
   {
     name: "Github",
     href: "https://github.com/vasanth27s",
-    target: "_blank",
+    
   },
   {
     name: "Contact",
     href: "https://www.instagram.com/vasanth_kumar.27?igsh=MXB0aTdwYzZheGk1dg==",
-    target: "_blank",
+   
   },
 ];
 
