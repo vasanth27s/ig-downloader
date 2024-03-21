@@ -20,14 +20,10 @@ const navbarLinks = [
     href: "https://github.com/vasanth27s",
     
   },
-  {
-    name: "Github",
-    href: "https://github.com/vasanth27s",
-    
-  },
+  
   {
     name: "Contact",
-    href: "https://www.instagram.com/vasanth_kumar.27?igsh=MXB0aTdwYzZheGk1dg==",
+    href: "https://www.instagram.com/vasanth_kumar.27?igsh=MXB0aTdwYzZheGk1dg%3D%3D",
    
   },
 ];
