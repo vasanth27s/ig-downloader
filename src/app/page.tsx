@@ -5,14 +5,8 @@ import InstagramForm from "@/components/instagram/InstagramForm";
 import { cn } from "@/utils";
 
 const FEATURES_LIST = [
-  {
-    title: "Fast and Reliable",
-    text: "Our reliable service ensures you get your videos without interruptions.",
-  },
-  {
-    title: "High-Quality Downloads",
-    text: "Download Instagram videos in the highest available quality.",
-  },
+ 
+ 
   {
     title: "User-Friendly Interface",
     text: "No technical expertise required—just a few simple clicks.",
@@ -34,11 +28,7 @@ const FEATURES_LIST = [
 const BENEFITS_LIST = [
   "Download Instagram videos to back up your content.",
   "Download Instagram videos to preserve your memories",
-  "Create your own video compilations using Instagram videos that you download.",
-  "Download Instagram videos for research purposes, such as studying a particular trend or social phenomenon.",
-  "Save your favorite Instagram videos to your device so you can watch them offline or share them with others.",
-  "Use Instagram videos for your own creative projects, such as making YouTube videos or creating presentations.",
-  "Download Instagram videos for educational purposes, such as learning about a new skill or watching a historical event.",
+
 ];
 
 const FAQ_LIST = [
